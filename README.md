@@ -44,3 +44,7 @@ See default configuration setting in `brats_configs.py`
 Sample Run Script:
 
 	cd /chenxue/paper3/Ano-cDiff_baseline && python -u baseline_code/sampling/Ano-cDiff_sample.py
+ 
+### run for usr-provided data:
+For the user-supplied data, the key to running the program is the construction of the BrainDataset class. First, all data is stored as shown in the `file_example.png`.
+
