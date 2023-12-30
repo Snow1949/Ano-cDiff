@@ -27,11 +27,11 @@ File structure：
 Run for user:
 -----------------------------------
 ### Dataset preprocessing,
-First, run `data_preprocessing.py` to process `.nii.gz` data to `.npy`. 
+First, run `MRI_preprocessing.py` to process `.nii.gz` data to `.npy`. 
 The BrainDataset class then assigns image-level labels (label=0 or 1) to each slice.
 	
-	run 'data_preprocessing.py' like this:
-	cd /chenxue/paper3/Ano-cDiff/baseline_code/datasets && python -u data_preprocessing.py
+	run 'MRI_preprocessing.py' like this:
+	cd /chenxue/paper3/Ano-cDiff/baseline_code/datasets && python -u MRI_preprocessing.py
         
 ### Train: 
 See default configuration setting in `brats_configs.py`
