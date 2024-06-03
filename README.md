@@ -50,3 +50,16 @@ Sample Run Script:
 ### run for usr-provided data:
 For the user-supplied data, the key to running the program is the construction of the BrainDataset class. First, all data is stored as shown in the `file_example.png`.
 
+Citation
+-----------------------------------
+If you find this repo useful for your research, please consider citing the paper as follows:
+	
+	@article{chen2024counterfactual,
+	  title={Counterfactual condition diffusion with continuous prior adaptive correction for anomaly detection in multimodal brain MRI},
+	  author={Chen, Xue and Peng, Yanjun},
+	  journal={Expert Systems with Applications},
+	  pages={124295},
+	  year={2024},
+	  publisher={Elsevier}
+	}
+ 
