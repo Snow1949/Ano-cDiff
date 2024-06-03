@@ -4,6 +4,7 @@ Ano-cDiff
 This repository is the work of "Counterfactual condition diffusion with continuous prior adaptive correction for anomaly detection in multimodal brain MRI" based on pytorch implementation, currently under review by Journal Expert Systems with Applications. More details can be seen in our upcoming paper.
 
 After the paper is accepted, we will continue to improve the content of the document, including the ideas of the paper and specific experimental methods.
+![image](framework.png)
 
 Requirements：
 -----------------------------------
